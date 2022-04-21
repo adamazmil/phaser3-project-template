@@ -1,4 +1,4 @@
-import Phaser from "phaser";
+import Phaser from "@adamazmil/phaser";
 import logoImg from "./assets/logo.png";
 import React from "react";
 import ReactDOM from "react-dom/client";
